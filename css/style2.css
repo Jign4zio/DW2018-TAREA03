@@ -1,0 +1,17 @@
+.div-oscuro {
+   	width: 100%;
+   	height: 400px;
+   	background: #71A749;
+}
+
+.div-medio {
+	width: 100%;
+    height: 400px;
+    background: #97BF4D;
+}
+
+.div-claro {
+	width: 100%;
+   	height: 400px;
+   	background: #CDDFAC;
+}
